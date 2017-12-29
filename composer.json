@@ -1,15 +1,15 @@
 {
-  "name": "idavoll/adminlte-theme",
+  "name": "denisgold/adminlte-theme",
   "type": "asgard-theme",
-  "description": "An AsgardCMS administration theme",
+  "description": "AsgardCMS administration theme by Denis Stoliarchuk",
   "keywords": [
     "asgard-cms"
   ],
   "license": "MIT",
   "authors": [
     {
-      "name": "Nicolas Widart",
-      "email": "info@asgardcms.com",
+      "name": "Denis Stoliarchuk",
+      "email": "dartius@mail.ru",
       "role": "Developer"
     }
   ],
